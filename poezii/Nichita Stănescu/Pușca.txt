@@ -1,0 +1,19 @@
+Pusca este alcatuita din trei parti:
+partea de sus,
+partea de mijloc,
+si partea de sus.
+
+Partea de sus este compusa din:
+partea de sus a partii de sus si
+partea de mijloc a partii de sus si
+partea de jos a partii de sus.
+
+Partea de mijloc este compusa din:
+partea de sus a partii de mijloc si
+partea de mijloc a partii de mijloc si
+partea de jos a partii de mijloc.
+
+Partea de jos este compusa din:
+partea de sus a partii de jos si
+partea de mijloc a partii de jos si
+partea de jos a partii de jos
